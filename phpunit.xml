@@ -5,7 +5,7 @@
          colors="true">
 
     <testsuites>
-        <testsuite name="OPUS 4 Common Test Suite">
+        <testsuite name="ScriptsTests">
             <directory>./test/</directory>
         </testsuite>
     </testsuites>
